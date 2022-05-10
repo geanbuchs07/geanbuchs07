@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @geanbuchs07
+- 👍 meu gmail de contato é  gean.buchs@esccola.pr.gov.br
+- 👀 eu estou interessado em aprender a programar novas linguagens 
+- 🌱 eu estou aprendendo a programar recentemente a linguagrm de javascript e scratch
